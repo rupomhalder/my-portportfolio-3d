@@ -36,6 +36,7 @@ header {
   user-select: none;
   letter-spacing: 2px;
   float: left;
+   text-transform: uppercase;      
   
 }
 
